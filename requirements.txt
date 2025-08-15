@@ -1,3 +1,0 @@
-mediapipe
-pyautogui
-opencv-python
