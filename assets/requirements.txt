@@ -1,1 +1,4 @@
+mediapipe
+pyautogui
+opencv-python
 
